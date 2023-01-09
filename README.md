@@ -1,5 +1,4 @@
-<h1 align="center">Welcome,  I'm Yehor Horbachov 🦊</h1>
-<h3 align="center">A passionate Cyber Security enthusiast! 👁️⃤</h3>
+<h1 align="center">Welcome ,  my name is Yehor 🦊</h1>
 <img text-align="center" alt="Sky" width="1150" height="200" src="https://media0.giphy.com/media/12AwtlTuPlF29y/giphy.gif?cid=ecf05e47jmlyjwrazw2mo20ltst6a3egbhqt9jhvg07y1syc&rid=giphy.gif&ct=g">
 
 <h3 align="center">Languages and Tools:</h3>
